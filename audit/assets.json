@@ -1,0 +1,42 @@
+[
+  {
+    "file": "D:\\codex\\BDD\\PK3-design\\assets\\1.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "sha256": "30bceeee63efa1c2ad431e08ad5c0bc776e42b5ce5b829cf8982e3f3867c4a95"
+  },
+  {
+    "file": "D:\\codex\\BDD\\PK3-design\\assets\\2.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "sha256": "ea88b7921969a1381f23689f05f2e67f6e3febc3d9435449b57c9bbe69de764d"
+  },
+  {
+    "file": "D:\\codex\\BDD\\PK3-design\\assets\\3.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "sha256": "9700538bee9fe5cc6c340b35acb7b8281ea551e634ffde7199e88f1c72334247"
+  },
+  {
+    "file": "D:\\codex\\BDD\\PK3-design\\assets\\4.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "sha256": "de968f3568851cb1a81060be950778c5ff98b5a3625472810eef19c280ae3499"
+  },
+  {
+    "file": "D:\\codex\\BDD\\PK3-design\\assets\\5.jpg",
+    "size": [
+      1600,
+      1200
+    ],
+    "sha256": "3510c6fd7cb3964801a33805d7e07ec9721d56fb14b28337540a246ff2684cf4"
+  }
+]

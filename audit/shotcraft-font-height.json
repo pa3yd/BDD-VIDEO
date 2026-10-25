@@ -1,0 +1,29 @@
+{
+  "brand": {
+    "bright_glyph_row_span": 33,
+    "box": [
+      100,
+      120,
+      590,
+      190
+    ]
+  },
+  "subtitle1": {
+    "bright_glyph_row_span": 35,
+    "box": [
+      100,
+      440,
+      590,
+      505
+    ]
+  },
+  "subtitle2": {
+    "bright_glyph_row_span": 35,
+    "box": [
+      100,
+      510,
+      590,
+      585
+    ]
+  }
+}

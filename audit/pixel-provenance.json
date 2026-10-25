@@ -1,0 +1,13 @@
+{
+  "opaque_pixel_RGB_exact_source_match": true,
+  "opaque_pixel_count": 605803,
+  "source_crop": [
+    250,
+    165,
+    1330,
+    980
+  ],
+  "alpha_method": "manual polygon, one-pixel erosion, 0.45px feather",
+  "geometric_changes": "uniform 1.000\u20131.035 scale only; no rotation, warp or 3D",
+  "render_display_correction": "brightness 1.015 / contrast 1.015, low-opacity local lighting overlay"
+}

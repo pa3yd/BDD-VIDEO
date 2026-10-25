@@ -1,0 +1,152 @@
+{
+  "checked_date": "2026-10-25",
+  "source": "https://boromond.com/test-module/pk3/",
+  "verification_level": "Manufacturer webpage agreement only; not independent testing or as-built nameplate verification",
+  "parameters": [
+    {
+      "name": "Product type",
+      "value": "Portable BDD electro-oxidation kit",
+      "evidence_section": "Product Description",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Recommended test volume",
+      "value": "2–5 L",
+      "evidence_section": "At a Glance",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Rated power",
+      "value": "440 W",
+      "evidence_section": "Nameplate",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "AC input",
+      "value": "AC220 V / AC110 V",
+      "evidence_section": "Nameplate; configuration, not verified auto switching",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Frequency",
+      "value": "50/60 Hz",
+      "evidence_section": "Nameplate",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "DC output voltage",
+      "value": "0–12 V",
+      "evidence_section": "Nameplate",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "DC output current",
+      "value": "0–35 A",
+      "evidence_section": "Nameplate",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Ambient temperature",
+      "value": "10–45 °C",
+      "evidence_section": "Operating Conditions",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Ambient humidity",
+      "value": "≤90%",
+      "evidence_section": "Operating Conditions",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Pump flow",
+      "value": "0–3 L/min",
+      "evidence_section": "Operating Conditions; not wastewater throughput",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Weight",
+      "value": "12.5 kg",
+      "evidence_section": "Operating Conditions",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Overall size",
+      "value": "420 × 320 × 290 mm",
+      "evidence_section": "Operating Conditions",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Housing",
+      "value": "Aluminum alloy + ABS",
+      "evidence_section": "Operating Conditions",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Module dimensions",
+      "value": "220 × 180 × 160 mm",
+      "evidence_section": "Module",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Anode material",
+      "value": "Nb/BDD",
+      "evidence_section": "Anode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Anode dimensions",
+      "value": "100 × 50 × 1 mm",
+      "evidence_section": "Anode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Anode quantity",
+      "value": "7",
+      "evidence_section": "Anode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Sealed active area",
+      "value": "540 cm²",
+      "evidence_section": "Anode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Current density",
+      "value": "0–55 mA/cm²",
+      "evidence_section": "Anode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Cathode material",
+      "value": "Titanium",
+      "evidence_section": "Cathode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Cathode dimensions",
+      "value": "100 × 50 × 1 mm",
+      "evidence_section": "Cathode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    },
+    {
+      "name": "Cathode quantity",
+      "value": "8",
+      "evidence_section": "Cathode",
+      "status": "OFFICIAL_PAGE_CONFIRMED"
+    }
+  ],
+  "conflicts": [
+    {
+      "name": "Flow path",
+      "status": "HOLD",
+      "reason": "Intro: parallel / all seven plates equally fed; Product Description and Key Features: zigzag. Do not use until manufacturer resolves."
+    }
+  ],
+  "excluded_claims": [
+    "No certification verified",
+    "No guaranteed COD removal or time to treatment",
+    "No virtual running screen",
+    "No throughput claim from pump flow"
+  ]
+}

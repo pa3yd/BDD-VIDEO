@@ -1,0 +1,39 @@
+{
+  "name": "light-play-moves",
+  "summary": "光效两式——spotlight-sweep 聚光扫字、sheen 单点扫光",
+  "use": "把光当另一种笔触（扫/擦）：暗场标题揭示（A）、主角卡加冕（B）",
+  "duration": "A 170f ~5.7s / B 150f ~5s",
+  "energy": "A 中 / B 低",
+  "intention": "库内\"光\"一直只有 spotlight-hero-card 一个点射手法；这两式把光做成 体系，两种笔触两种职责：A 是**扫**——暗场里几乎不可见的标题被锥形 光摆动扫亮，光到哪哪亮，与 spotlight-hero-card 的区别是那个打卡片、 这个扫文字；B 是**擦**——深墨主角卡上一道 45° 高光带缓扫一次，被 圆角裁住，无声的加冕。 全部深底或深主角——**白底上提亮不可见**（判例）是这整张卡的地基。",
+  "source": "references/shots/effects/light-play-moves.md",
+  "updatedAt": "2026-10-02T21:01:48.000Z",
+  "styles": [
+    {
+      "key": "spotlight-sweep",
+      "label": "spotlight-sweep",
+      "description": "双层同文本：暗版 0.07 常驻，亮版 radial mask 随光斑走，锥形光摆两个来回后全亮定格",
+      "use": "暗场大标题揭示开场",
+      "media": {
+        "url": "./media/spotlight-sweep.mp4?v=1790980736825",
+        "type": "mp4"
+      }
+    },
+    {
+      "key": "sheen-sweep",
+      "label": "sheen-sweep",
+      "description": "深墨卡上 45° 高光带 translateX 扫一次，overflow hidden 圆角裁剪",
+      "use": "主角卡静止段的一次加冕",
+      "media": {
+        "url": "./media/sheen-sweep.mp4?v=1790980736826",
+        "type": "mp4"
+      }
+    }
+  ],
+  "sourceUrl": "./source/light-play-moves.md",
+  "category": "effects",
+  "tags": [
+    "effects",
+    "typography"
+  ],
+  "addedAt": "2026-07-19T05:45:41.000Z"
+}
